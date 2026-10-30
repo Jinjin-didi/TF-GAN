@@ -26,7 +26,7 @@ Ruixin Chen, Rufu Qin, Yang Yu
 
 ## 2. What is **not** in this repository
 
-The current-signal field record was acquired on a production asset of a marine observation
+The Current signal dataset was acquired on a production asset of a marine observation
 network and is subject to that network's data-sharing agreement. It is not redistributed here.
 Requests for access are considered by the corresponding author and are subject to the same
 agreement. No result in the paper depends on redistributing that record.
